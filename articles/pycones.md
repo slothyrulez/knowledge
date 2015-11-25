@@ -14,29 +14,29 @@ The conferences where ordered on three tracks, basic, advanced and data-science,
 
  - "#!/usr/bin/python (Python para Sysadmins)" by Andreu Belmonte Peña.
 
- A Java programmer, amazing DevOps at ofertia, with a pythonic
-soul, showed us how to use the python batteries to help managing
-systems, and how to defeat a python hater on a programming competition.
+  A Java programmer, amazing DevOps at ofertia, with a pythonic
+  soul, showed us how to use the python batteries to help managing
+  systems, and how to defeat a python hater on a programming competition.
 
  - "Escalando una web con python" by Jose Ignacio Galarza.
 
- CTO at "ticketea", condensed amazingly well a big amount of interesting topics on scaling python web based applications.
+  CTO at "ticketea", condensed amazingly well a big amount of interesting topics on scaling python web based applications.
 
  - "La maquinaria de import, ese mágico desconocido" by Raúl Cumplido.
 
- Smart journey following the import machinery of the python interpreter.   
+  Smart journey following the import machinery of the python interpreter.   
 
  - "Revisión de código en Python" by Cesar Cardenas Desales.
 
- Or, the benefits, how and why organize a work-flow of code revision on a collaborative developing environment, Software Architect at Webrepublic, wise person, one of those inspiring talks teaching human experiences, again, great talk.
+  Or, the benefits, how and why organize a work-flow of code revision on a collaborative developing environment, Software Architect at Webrepublic, wise person, one of those inspiring talks teaching human experiences, again, great talk.
 
  - "Django request-response: Un viaje de ida y vuelta" by Imanol Cea
 
- Another interesting journey in the hand of a "ticketea" developer following the route of a request and response on the Django framework.
+  Another interesting journey in the hand of a "ticketea" developer following the route of a request and response on the Django framework.
 
  - "Extending Python" by Francisco Fernández Castaño
 
- Some examples of extending a python program using C with the three main methods. With such an extended topic, the author was capable of give the audience guidance on the topic.
+  Some examples of extending a python program using C with the three main methods. With such an extended topic, the author was capable of give the audience guidance on the topic.
 
 And that only for the Saturday, later, people moved to Valencia center to take some beers, and discuss random topics like the "for...else" construct, but that's other story.
 
@@ -47,6 +47,12 @@ Sunday, final day of the marathon, 24 more Talks and the final closing one. On t
   Again the CTO and a developer of ticketea,on a great talk, explained us the behind scenes machinery of a bran new service to come on his enterprise implemented using asyncIO.
 
 - "Funcional para trollear" by Alejandro Brito Monedero.
+
+  What to say?, functional explained funny.
+
 - "Hacking the Taiga" by David Barragán Merino.
 
+  Lovely talk about the best open source agile tool, Taiga project. Some examples of the existing options to extend or integrate it.
+
+Point that on some of the talks, the speakers concluded that python is a slow language, or at least the cpython implementation, which can be true, but, as if it were done on purpose, we reached the closing
 The final closing
