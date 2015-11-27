@@ -54,5 +54,8 @@ Sunday, final day of the marathon, 24 more Talks and the final closing one. On t
 
   Lovely talk about the best open source agile tool, Taiga project. Some examples of the existing options to extend or integrate it.
 
-Point that on some of the talks, the speakers concluded that python is a slow language, or at least the cpython implementation, which can be true, but, as if it were done on purpose, we reached the closing
-The final closing
+Point, that on some of the talks, the speakers concluded, among other things, that python is a slow language, or at least the cpython implementation, which can be true, but, as if it were done on purpose, we reached the closing Talk...
+
+The final closing Talk, "Dijkstra es mi pastor, nada me falta", by Víctor Terrón, personally, I enjoyed it a lot, a really advisable talk, (the videos will be available soon), just say, it touched the big question on why use a language like python, clearing any previous bad feeling about speed. For real, if you have a bit of time, and understand some spanish, watch it.
+
+Once the talk finished, the organization got the word, by the lovely words of the mighty [Mai Giménez](https://github.com/maigimenez), talked about the big effort behind a event like this, of course she was right, it has been a big event, with amazing talks, and a lot of care and work on it.
